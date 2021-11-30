@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{background-color: dimgray}
+#contenedor{width: 1100px; height: 930px; margin-top: 50px; margin: auto}
+
+
+header{width: 1100px; height: 100px}
+#log{width: 150px;
+	right: 150px;}
+
+nav{width: 1100px; height: 30px; background-color: deepskyblue; margin-top: 20px}
+
+a{	
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+	margin-left: 140px;
+	border: black 3px solid;
+	background-color: black}
+
+
+section{color: white; width:  1000px; height: 700px; margin-top: 30px}
+
+
+.imagenes{width: 170px; height: 180px; margin-top: 30px}
+
+
+footer{width: 1100px; height: 40px; background-color: deepskyblue; margin-top: 50px; margin: auto}
+
+#mex{font-size: 15px; color: black; margin-top: 10px}
+
+#men{width: 30px; height: 30px; margin-left: 1000px; margin-top: -15px}
+
+
+
+
+
+
+
